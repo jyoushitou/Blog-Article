@@ -1,14 +1,10 @@
 ---
-slug: hello-world
-title: 我的第一篇文章
+slug: test
+title: 新的博客后端测试
 date: 2026-08-26
 tags: [日常, 随笔]
 summary: 这是用来测试博客系统是否正常工作。
 ---
-
-正文内容写在这里...
-支持 **Markdown** 格式。
-```
 
 ---
 
@@ -90,3 +86,10 @@ summary: 摘要内容
 
 ```rust
 let safe_slug = slug.replace(['/', '\\', '.'], "");
+```
+
+---
+
+# 使用RUST作为博客后端
+
+---
