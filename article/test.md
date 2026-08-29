@@ -2,7 +2,7 @@
 slug: test
 title: 新的博客后端测试
 date: 2026-08-26
-tags: [日常, 随笔]
+tags: [test]
 summary: 这是用来测试博客系统是否正常工作。
 ---
 
